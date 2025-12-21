@@ -1,8 +1,13 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" height="250"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="260"/>
 </p>
 
+<h1 align="center">Hi, I'm Aditya Jain 👋</h1>
 <h3 align="center">AI • Backend • MCP • Product-Tech • App Development</h3>
+
+<p align="center">
+  Passionate about building scalable backend systems, MCP servers, AI-powered applications, and real-world tech products.
+</p>
 
 ---
 
@@ -46,11 +51,8 @@
 ![REST](https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge)
 ![CRUD](https://img.shields.io/badge/CRUD%20APIs-0A66C2?style=for-the-badge)
 ![Backend](https://img.shields.io/badge/Backend%20Architecture-Basics-informational?style=for-the-badge)
-![API Design](https://img.shields.io/badge/API%20Design%20%26%20Docs-FF6F00?style=for-the-badge)
-![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
-![HTTP](https://img.shields.io/badge/HTTP-005571?style=for-the-badge)
-![Auth](https://img.shields.io/badge/API%20Authentication-Basics-6DB33F?style=for-the-badge)
-![Env](https://img.shields.io/badge/Environment%20Variables-000000?style=for-the-badge)
+![JSON](https://img.shields.io/badge/JSON%20%26%20HTTP-000000?style=for-the-badge)
+![Auth](https://img.shields.io/badge/API%20Auth-Basics-6DB33F?style=for-the-badge)
 ![Logging](https://img.shields.io/badge/Error%20Handling%20%26%20Logging-FF4C4C?style=for-the-badge)
 ![Deploy](https://img.shields.io/badge/Deployment-Basics-4CAF50?style=for-the-badge)
 ![MCP](https://img.shields.io/badge/MCP%20Server%20Development-7A1FA2?style=for-the-badge)
@@ -71,7 +73,6 @@
 ## 🗄️ Databases & Storage
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQL DB](https://img.shields.io/badge/SQL%20Databases-003B57?style=for-the-badge)
 ![Vector DB](https://img.shields.io/badge/Vector%20Databases-Conceptual-8E24AA?style=for-the-badge)
 ![Notion](https://img.shields.io/badge/Notion%20API-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Docs](https://img.shields.io/badge/Document%20Stores-PDF%20%26%20Docs-607D8B?style=for-the-badge)
@@ -103,6 +104,15 @@
 
 ---
 
+## 🤝 Connect With Me
 <p align="center">
-  <b>Always learning • Building real-world systems • Exploring AI, MCP & Backend engineering</b>
+  <a href="https://github.com/your-github-username">
+    <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:adityavishaljain@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="tel:+918956176341">
+    <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
 </p>
