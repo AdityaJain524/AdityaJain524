@@ -111,6 +111,6 @@
 ---
 
 ## 📬 Connect With Me
-- **GitHub:** https://github.com/your-github-username  
+- **GitHub:** https://github.com/AdityaJain524
 - **Email:** adityavishaljain@gmail.com  
 - **Phone:** 8956176341
